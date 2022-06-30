@@ -3,5 +3,9 @@ This is implementation of [Shape Generation using Spatially Partitioned Point Cl
 Here is a video showcasing some of the samples generated.
 
 
-https://user-images.githubusercontent.com/49263866/176688887-001f10bf-871a-44c8-9f4d-9ce594aa7e27.mp4
+
+
+
+
+https://user-images.githubusercontent.com/49263866/176691266-9ac97aef-d3d1-4b55-b09b-65fe35959366.mp4
 
